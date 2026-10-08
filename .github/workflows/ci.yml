@@ -26,5 +26,6 @@ jobs:
           name: IEFunctions
           sources: |
             Contrib/IEFunctions/IEFunctions.cpp
+          targets: x86-ansi
           strict: false
           release: ${{ github.event_name == 'release' }}

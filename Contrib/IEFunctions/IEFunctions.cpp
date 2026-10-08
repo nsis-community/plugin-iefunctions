@@ -4,7 +4,7 @@
 // Thanks to daz for the liposuction (going from a 51K to a 4K filesize)
 
 #include <windows.h>
-#include "C:\program files\nsis\contrib\exdll\exdll.h"
+#include "exdll.h"
 #include <Exdisp.h> // voor IWebBrowser2
 #include <comdef.h>
 
